@@ -23,6 +23,7 @@
 
 ---
 
+
 ## 📚 Featured Projects
 
 ### 🔧 eSabraHub *(Group Project)*  
@@ -61,6 +62,9 @@ A simple and secure **authentication system** with **OTP-based login/registratio
 ---
 
 ### 🏍️ AsAutoMotors *(Group Project)*  
+<img width="1883" height="919" alt="Screenshot 2025-07-08 183153" src="https://github.com/user-attachments/assets/63f5fdb8-4d68-4181-9359-b0651c0b689d" />
+<img width="1885" height="913" alt="Screenshot 2025-07-08 183705" src="https://github.com/user-attachments/assets/22369c1e-59bc-4eef-abcd-f877a2858472" />
+
 A business website for **AsAutoMotors**, enabling customers to browse and book **second-hand motorcycles**.  
 Includes **admin dashboard**, **promotions**, **booking management**, and **inquiry handling**.  
 **Role:** Developed major backend functionalities, booking system, and integrated frontend.  
