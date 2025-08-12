@@ -36,14 +36,14 @@ A smart **chatbot system** built using MERN stack for user interaction on the eS
 ### 🍴 Feastify *(Self Project)*  
 An online **food delivery system** with restaurant listings, order management, and **payment gateway integration**.  
 **Tech:** React, Node.js, Express, MongoDB, Razorpay  
-🔗 [Feastify Repository](#) *(Link when available)*
+🔗 [Feastify Repository](https://github.com/prabodhahdev/eSabraHub)
 
 ---
 
 ### 🛒 FreshlyCart *(Self Project)*  
 A full-featured **online grocery store** with user **authentication**, cart management, and **secure checkout**.  
 **Tech:** MERN stack, JWT, Stripe  
-🔗 [FreshlyCart Repository](#)
+🔗 [FreshlyCart Repository](https://github.com/mhmdfashan16/Online-Grocery-System)
 
 ---
 
