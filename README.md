@@ -29,14 +29,15 @@
 ### 🔧 eSabraHub *(Group Project)*  
 A smart **chatbot system** built using MERN stack for user interaction on the eSabraHub platform.  
 **Role:** Designed and developed the complete chatbot system (Intent handling, Backend Integration, UI interaction).  
-🔗 *Private Repo (Academic)*
+🔗 [eSabraHub Repository](https://github.com/prabodhahdev/eSabraHub)
+
 
 ---
 
 ### 🍴 Feastify *(Self Project)*  
 An online **food delivery system** with restaurant listings, order management, and **payment gateway integration**.  
 **Tech:** React, Node.js, Express, MongoDB, Razorpay  
-🔗 [Feastify Repository](https://github.com/prabodhahdev/eSabraHub)
+🔗 [Feastify Repository](https://github.com/mhmdfashan16/HotelManagementSystem_FoodDelivery)
 
 ---
 
@@ -50,25 +51,23 @@ A full-featured **online grocery store** with user **authentication**, cart mana
 ### 💊 FreshDose *(Self Project)*  
 A platform for **doctor consultations and prescription management**, allowing users to book, chat, and get digital prescriptions.  
 **Tech:** MERN stack, Firebase for authentication  
-🔗 [FreshDose Repository](#)
+🔗 [FreshDose Repository](https://github.com/mhmdfashan16/FreshDose)
 
 ---
 
 ### 🔐 FastAuth *(Self Project)*  
 A simple and secure **authentication system** with **OTP-based login/registration**.  
 **Tech:** MERN stack, Nodemailer  
-🔗 [FastAuth Repository](#)
+🔗 [FastAuth Repository](https://github.com/mhmdfashan16/Authendication_System)
 
 ---
 
 ### 🏍️ AsAutoMotors *(Group Project)*  
-<img width="1883" height="919" alt="Screenshot 2025-07-08 183153" src="https://github.com/user-attachments/assets/63f5fdb8-4d68-4181-9359-b0651c0b689d" />
-<img width="1885" height="913" alt="Screenshot 2025-07-08 183705" src="https://github.com/user-attachments/assets/22369c1e-59bc-4eef-abcd-f877a2858472" />
 
 A business website for **AsAutoMotors**, enabling customers to browse and book **second-hand motorcycles**.  
 Includes **admin dashboard**, **promotions**, **booking management**, and **inquiry handling**.  
 **Role:** Developed major backend functionalities, booking system, and integrated frontend.  
-🔗 [AsAutoMotors Repository](#)
+🔗 [AsAutoMotors Repository](https://github.com/mhmdfashan16/ASAutoMotors)
 
 ---
 
